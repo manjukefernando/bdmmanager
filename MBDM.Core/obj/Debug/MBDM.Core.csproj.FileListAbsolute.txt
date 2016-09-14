@@ -1,0 +1,5 @@
+D:\Development\Personal\ManageBDM\MBDM.Core\bin\Debug\MBDM.Core.dll
+D:\Development\Personal\ManageBDM\MBDM.Core\bin\Debug\MBDM.Core.pdb
+D:\Development\Personal\ManageBDM\MBDM.Core\obj\Debug\MBDM.Core.dll
+D:\Development\Personal\ManageBDM\MBDM.Core\obj\Debug\MBDM.Core.pdb
+D:\Development\Personal\ManageBDM\MBDM.Core\obj\Debug\MBDM.Core.csprojResolveAssemblyReference.cache
